@@ -1,0 +1,4 @@
+Jim Harper,300,01/26/2001,Salesman
+Dwight K. Schrutte,200,07/23/2000,Assistant to the manager
+Michael Scott,100,06/07/1995,Manager
+Pammela Beasly,800,02/14/2002,Receptionist
